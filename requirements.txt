@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+tinytuya
+requests
+cryptography
+pytest
+# macOS only — on-device dog gate (Apple Vision). Lazy-imported: the hub runs
+# without it, recording falls open (untagged clips).
+# pyobjc

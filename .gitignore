@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+.DS_Store
+.env
+reference/
+backup/
+data/
+recordings/
+audio/
+logs/
+*.log
+samples/
+.scratch/
